@@ -11,6 +11,7 @@
 #import "GPUImageRawDataInput.h"
 #import "GPUImageRawDataOutput.h"
 #import "GPUImageMovieWriter.h"
+#import "GPUImageEncoder.h"
 #import "GPUImageFilterPipeline.h"
 #import "GPUImageTextureOutput.h"
 #import "GPUImageFilterGroup.h"
